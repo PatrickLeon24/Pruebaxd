@@ -1,1 +1,3 @@
 node modules para librerias
+npm install
+npm start
