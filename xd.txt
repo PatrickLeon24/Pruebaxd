@@ -1,3 +1,10 @@
 node modules para librerias
 npm install
 npm start
+
+react.dev
+npm install bootstrap --save
+
+
+virtual doom
+expresion un bloque de codigo que retorno
