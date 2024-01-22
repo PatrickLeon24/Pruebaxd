@@ -8,3 +8,19 @@ npm install bootstrap --save
 
 virtual doom
 expresion un bloque de codigo que retorno
+
+<App/>
+
+className
+
+
+expresion = {}
+
+funcion anonima 
+
+()=>{
+
+    return
+}
+useState=sirve para setear un valor por defecto ,se usa para poder cambiarlo y luego al regenerar el 
+componente no se vuelve a ejecutar
